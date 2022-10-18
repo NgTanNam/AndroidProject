@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProject/App/app/src/main/res/drawable-v24/bg_bt.xml" value="0.1425" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/drawable-v24/bg_gradien.xml" value="0.1425" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/drawable-v24/bg_grey_right.xml" value="0.1585" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/drawable-v24/bg_right.xml" value="0.1585" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/drawable-v24/circle.xml" value="0.1585" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/drawable-v24/gradient.xml" value="0.1425" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/drawable-v24/gradient_profile.xml" value="0.1425" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1585" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/drawable-v24/roundedbt.xml" value="0.1585" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/drawable-v24/roundededittext.xml" value="0.1585" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/drawable/bg.xml" value="0.1425" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/drawable/bg_grey.xml" value="0.1585" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1585" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/drawable/ic_baseline_arrow_back_24_white.xml" value="0.1585" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/drawable/ic_baseline_bookmark_24.xml" value="0.1505" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1585" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.1585" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1585" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1585" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/font/dancing_script.xml" value="0.2638888888888889" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/layout/activity_item_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/layout/activity_listview.xml" value="0.24547101449275363" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/layout/activity_login.xml" value="0.24547101449275363" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/layout/activity_main.xml" value="0.24547101449275363" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/layout/activity_profile_ui.xml" value="0.24547101449275363" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/layout/activity_sinup.xml" value="0.24547101449275363" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/layout/fragment_list_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/layout/fragment_proflile.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/layout/item.xml" value="0.264" />
+        <entry key="..\:/AndroidProject/App/app/src/main/res/menu/bottom_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidProject22/App/app/src/main/res/drawable-v24/bg_grey_right.xml" value="0.1275" />
+        <entry key="..\:/AndroidProject22/App/app/src/main/res/drawable-v24/bg_right.xml" value="0.1275" />
+        <entry key="..\:/AndroidProject22/App/app/src/main/res/drawable-v24/circle.xml" value="0.1275" />
+        <entry key="..\:/AndroidProject22/App/app/src/main/res/drawable/bg.xml" value="0.1275" />
+        <entry key="..\:/AndroidProject22/App/app/src/main/res/drawable/bg_grey.xml" value="0.1275" />
+        <entry key="..\:/AndroidProject22/App/app/src/main/res/layout/activity_listview.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidProject22/App/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidProject22/App/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidProject22/App/app/src/main/res/layout/activity_sinup.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidProject22/App/app/src/main/res/layout/item.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22826086956521738" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
