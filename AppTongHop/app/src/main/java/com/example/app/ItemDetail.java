@@ -37,6 +37,7 @@ public class ItemDetail extends AppCompatActivity {
             public void onClick(View view) {
                 Intent intent1 = new Intent(ItemDetail.this, MainActivity.class);
                 startActivity(intent1);
+                finish();
             }
         });
     }

@@ -78,6 +78,7 @@
                 android:layout_width="300dp"
                 android:layout_height="50dp"/>
             <EditText
+                android:password="true"
                 android:layout_marginTop="15dp"
                 android:drawableRight="@drawable/ic_baseline_vpn_key_24"
                 android:paddingLeft="20dp"
@@ -88,6 +89,7 @@
                 android:layout_width="300dp"
                 android:layout_height="50dp"/>
             <EditText
+                android:password="true"
                 android:layout_marginTop="15dp"
                 android:drawableRight="@drawable/ic_baseline_vpn_key_24"
                 android:paddingLeft="20dp"
