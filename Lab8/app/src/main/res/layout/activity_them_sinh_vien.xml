@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+    <TextView
+        android:background="#31D5F3"
+        android:padding="10dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="#050505"
+        android:textSize="30dp"
+        android:text="Sinh viên"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:hint="Tên:"
+        android:textSize="24dp"
+        android:padding="5dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/edittextten"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:hint="Mã sinh viên:"
+        android:textSize="24dp"
+        android:padding="5dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/edittextmsv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/btluu"
+            android:text="Lưu"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"/>
+        <Button
+            android:layout_marginLeft="50dp"
+            android:id="@+id/bthuy"
+            android:text="Hủy"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+</LinearLayout>
